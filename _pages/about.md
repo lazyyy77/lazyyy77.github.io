@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yipeng(Leo) Shen, a third year undergraduate student of [CCST](http://www.cs.zju.edu.cn/csen/), [Zhejiang University](https://www.zju.edu.cn/). My major is Computer Science and is expected to graduate in June, 2026.
+I'm Yipeng (Leo) Shen, a third year undergraduate student of [CCST](http://www.cs.zju.edu.cn/csen/), [Zhejiang University](https://www.zju.edu.cn/). My major is Computer Science and is expected to graduate in June, 2026.
 
-I'm currently working I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+My research interest lies on Machine Learning System. I'm currently working on an internship with [Prof. Yufei Ding]() of UCSD. I was advised by [Prof. Peng Lin](https://XXX.pku.edu.cn/) from Zhejiang University, aiming at designing a efficent while power effective SNN architecture. I was advised by [Prof. Zeke Wang]() from [RC4ML Lab](), Zhejiang University, focusing on Network on Chips.
 
-You can find my [CV](../assets/Curriculum_Vitae.pdf) here.
+You can find my [CV](../assets/CV.pdf) here.
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) 
+[Email](yipengshenn@gmail.com) / [Github](https://github.com/lazyyy77) 
 
 
 A data-driven personal website
