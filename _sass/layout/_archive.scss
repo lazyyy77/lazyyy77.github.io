@@ -39,6 +39,15 @@
   }
 }
 
+/* Publications-specific increased spacing between categories */
+.publications-groups {
+  .archive__subtitle {
+    margin: 2.5em 0 0;
+    padding-bottom: 0.75em;
+    margin-bottom: 1.25em;
+  }
+}
+
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;

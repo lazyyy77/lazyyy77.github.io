@@ -11,42 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, Zhejiang University, 2022 - 2026(Expected)
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**UCSD Picasso Lab** | Mar 2025 – present  
+*Advisor: Yufei Ding*  
+Optimize KV-cache and LoRA usage for multi-agent workflows under the SGLang framework; modified SGLang backend engine, cache structures, write queues, interrupt modules, and LoRA scheduler.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Zhejiang University CCNT Lab** | June 2024 – Nov 2025  
+*Advisor: Peng Lin*  
+Designed a high-accuracy, low-power neural network combining LIF spike features and LSTM gating for lab neuromorphic hardware.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Zhejiang University RC4ML Lab** | Nov 2024 – Mar 2025  
+*Advisor: Zeke Wang*  
+Accelerated convolution with large-number multiplication algorithms on DSP48.  
+Evaluated AMD VERSAL Network-on-Chip performance on Vivado.
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Skills
+======
+* Football
+  * I used to play football for ZJU-CCST team.
+* Guitar
+  * I was the president of Zhejiang University Guitar Association
+  * I can play acoustic guitar, electronic guitar, and a little Bass / Violin
+* Photography
+  * Lumix S5 with 50f1.8, 70300f5.6
+
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
